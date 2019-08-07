@@ -1,4 +1,4 @@
-![Homepage](https://github.com/abohannon/ticket-mailer/blob/develop/screenshots/Screen%20Shot%202018-02-26%20at%2011.56.23%20AM.png) 
+![Homepage](https://github.com/kingstar1227/ticket-mailer/blob/develop/screenshots/Screen%20Shot%202018-02-26%20at%2011.56.23%20AM.png) 
 
 # Ticket Mailer
 > Custom Shopify app designed for SHOWstubs.com
@@ -35,7 +35,7 @@ Once the app is running, navigate to `/signup` and create an account. Then `/log
 To install:
 
 ```shell
-https://github.com/abohannon/ticket-mailer.git
+https://github.com/kingstar1227/ticket-mailer.git
 cd ticket-mailer/
 npm install
 ```
@@ -106,15 +106,15 @@ their inputs before sending to all customers who ordered that particular bundle.
 * An order page exists that shows all orders regardless of show date, variant, etc. User can use the search on this page to find a particular customer or order # and click through to the relevant show date and bundle page for that customer
 * User can login and logout and remain authenticated while their cookie is valid.
 
-![Tour Page](https://raw.githubusercontent.com/abohannon/ticket-mailer/develop/screenshots/Screen%20Shot%202018-02-26%20at%2011.52.05%20AM.png) 
+![Tour Page](https://raw.githubusercontent.com/kingstar1227/ticket-mailer/develop/screenshots/Screen%20Shot%202018-02-26%20at%2011.52.05%20AM.png) 
 
-![Shows Page](https://github.com/abohannon/ticket-mailer/blob/develop/screenshots/Screen%20Shot%202018-02-26%20at%2011.52.47%20AM.png?raw=true) 
+![Shows Page](https://github.com/kingstar1227/ticket-mailer/blob/develop/screenshots/Screen%20Shot%202018-02-26%20at%2011.52.47%20AM.png?raw=true) 
 
-![Orders Page](https://github.com/abohannon/ticket-mailer/blob/develop/screenshots/Screen%20Shot%202018-02-26%20at%2011.53.17%20AM.png?raw=true) 
+![Orders Page](https://github.com/kingstar1227/ticket-mailer/blob/develop/screenshots/Screen%20Shot%202018-02-26%20at%2011.53.17%20AM.png?raw=true) 
 
-![Email Edit Page](https://github.com/abohannon/ticket-mailer/blob/develop/screenshots/Screen%20Shot%202018-02-26%20at%2011.55.40%20AM.png?raw=true) 
+![Email Edit Page](https://github.com/kingstar1227/ticket-mailer/blob/develop/screenshots/Screen%20Shot%202018-02-26%20at%2011.55.40%20AM.png?raw=true) 
 
-![Email Confirm Page](https://github.com/abohannon/ticket-mailer/blob/develop/screenshots/Screen%20Shot%202018-02-26%20at%2011.55.57%20AM.png) 
+![Email Confirm Page](https://github.com/kingstar1227/ticket-mailer/blob/develop/screenshots/Screen%20Shot%202018-02-26%20at%2011.55.57%20AM.png) 
 
 More screenshots here: https://www.behance.net/gallery/62558537/Ticket-Mailer-App
 
@@ -128,8 +128,8 @@ If you find this project helpful as a starting point for your own project, pleas
 
 ## Links
 
-- Repository: https://github.com/abohannon/ticket-mailer
-- Issue tracker: https://github.com/abohannon/ticket-mailer/issues
+- Repository: https://github.com/kingstar1227/ticket-mailer
+- Issue tracker: https://github.com/kingstar1227/ticket-mailer/issues
   - In case of sensitive bugs like security vulnerabilities, please contact
     abo46n2@gmail.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!

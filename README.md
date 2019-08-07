@@ -34,8 +34,8 @@ Once the app is running, navigate to `/signup` and create an account. Then `/log
 To install:
 
 ```shell
-https://github.com/kingstar1227/ticket-mailer.git
-cd ticket-mailer/
+https://github.com/kingstar1227/shopify-app.git
+cd shopify-app/
 npm install
 ```
 In order to successfully launch and develop the app, you will need the following in a dev.js file in the server/config dir:
@@ -105,9 +105,6 @@ their inputs before sending to all customers who ordered that particular bundle.
 * An order page exists that shows all orders regardless of show date, variant, etc. User can use the search on this page to find a particular customer or order # and click through to the relevant show date and bundle page for that customer
 * User can login and logout and remain authenticated while their cookie is valid.
 
-
-
-More screenshots here: https://www.behance.net/gallery/62558537/Ticket-Mailer-App
 
 ## Future Considerations
 
